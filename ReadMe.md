@@ -1,5 +1,5 @@
 # Location Analyzer ReadMe
-Developed by Dennis Arnold, March 2020
+Developed by Dennis Arnold, March 2020  
 R version: 3.6.3
 
 ## About
